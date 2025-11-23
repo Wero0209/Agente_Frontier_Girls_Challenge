@@ -78,7 +78,7 @@ Para cada achadinho encontrado, gere:
 
 ### 🔁 3.2 Fluxo de execução
 
-![fluxo](coloque_o_link_da_imagem_aqui)
+![fluxo](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/processo.png))
 
 
 
@@ -100,6 +100,7 @@ Para cada achadinho encontrado, gere:
 - Automação utilizando knowledge (arquivo em pdf com uma lista de produtos com seus respectivos valores e links)
 - Ação funcional criada realiza a busca de produtos no PDF e retorna achadinhos conforme solicitação do usuário.
 
+*Com o Bing, mesmo sendo assinatura com o cartão de crédito, não foi possível utilziar.
 
 
 ---
