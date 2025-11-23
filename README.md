@@ -72,7 +72,7 @@ Para cada achadinho encontrado, gere:
 
 ### 📍 3.1 Criação do agente
 
-![print geral](coloque_o_link_da_imagem_aqui)
+![Agente](Nome do agente.png)
 
 
 
@@ -92,37 +92,13 @@ Para cada achadinho encontrado, gere:
 
 
 
-## ⚙️ 4. Ação Funcional no Foundry
+## ⚙️ 4. Referências : 
 
 
 
-Descreva aqui qual foi a ação funcional criada no Foundry.
-
-
-
-Precisa ser **pelo menos uma** ação:  
-
-- cálculo simples  
-
-- busca  
-
-- automação pequena  
-
-- validação  
-
-- algum mini fluxo  
-
-
-
-**Exemplo:**  
-
-A ação funcional criada realiza a busca de informações sobre X e retorna para o agente o resultado filtrado.
-
-
-
-**Print da ação funcionando:**  
-
-![print_foundry](coloque_o_link_da_imagem)
+- Utilizado o Foundry
+- Automação utilizando knowledge (arquivo em pdf com uma lista de produtos com seus respectivos valores e links)
+- Ação funcional criada realiza a busca de produtos no PDF e retorna achadinhos conforme solicitação do usuário.
 
 
 
@@ -130,59 +106,14 @@ A ação funcional criada realiza a busca de informações sobre X e retorna par
 
 
 
-## 🔗 5. Links Importantes
+
+## 🏅 5. Informações da Participante
 
 
 
-Aqui você coloca os links relevantes do seu projeto:
+- **Nome:** Weronica   
 
-
-
-- **Link do agente no Foundry:**  
-
-  https://…
-
-
-
-- **Link da automação (Power Automate, se tiver):**  
-
-  https://…
-
-
-
-- **Outros materiais de apoio:**  
-
-  - Documentação  
-
-  - Guia do Challenge  
-
-  - Vídeos  
-
-
-
----
-
-
-
-## 🏁 6. Conclusão
-
-
-
-Resumo do que você aprendeu, dificuldades vencidas e como o agente funciona no final.
-
-
-
----
-
-
-
-## 🏅 7. Informações da Participante
-
-
-
-- **Nome:** Weronica (Wero0209)  
-
-- **Repositório público criado para o Challenge**  
+- **Repositório público criado para o Challenge** : 
 
 - **Agente funcional criado e testado**
 
