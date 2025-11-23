@@ -72,7 +72,8 @@ Para cada achadinho encontrado, gere:
 
 ### 📍 3.1 Criação do agente
 
-![Agente](Nome do agente.png)
+![teste](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge)
+
 
 
 
@@ -113,7 +114,7 @@ Para cada achadinho encontrado, gere:
 
 - **Nome:** Weronica   
 
-- **Repositório público criado para o Challenge** : 
+- **Repositório público criado para o Challenge** : https://github.com/Wero0209/Agente_Frontier_Girls_Challenge
 
 - **Agente funcional criado e testado**
 
