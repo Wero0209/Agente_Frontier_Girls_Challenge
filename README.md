@@ -74,7 +74,7 @@ Para cada achadinho encontrado, gere:
 
 ![agente](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/Nome%20do%20agente.png)
 
-
+![agente.config](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/temperatura%20e%20knowledge.png) 
 
 ### 🔁 3.2 Fluxo de execução
 
