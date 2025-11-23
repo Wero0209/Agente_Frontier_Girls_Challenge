@@ -101,7 +101,7 @@ Para cada achadinho encontrado, gere:
 - Ação funcional criada realiza a busca de produtos no PDF e retorna achadinhos conforme solicitação do usuário.
 
 *Com o Bing, mesmo sendo assinatura com o cartão de crédito, não foi possível utilziar.
-
+![tentativa](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/Bing_failed.png)
 
 ---
 
