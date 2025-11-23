@@ -84,8 +84,11 @@ Para cada achadinho encontrado, gere:
 
 ### 💬 3.3 Exemplos de respostas geradas
 
-![respostas](coloque_o_link_da_imagem_aqui)
-
+![respostas](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/Intera%C3%A7%C3%A3o%20com%20agente%201.png)
+![r1](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/2.png)
+![r2](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/3.png)
+![r3](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/4.png)
+![r4](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge/blob/main/5.png)
 
 
 --- 
