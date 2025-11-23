@@ -72,8 +72,7 @@ Para cada achadinho encontrado, gere:
 
 ### 📍 3.1 Criação do agente
 
-![teste](https://github.com/Wero0209/Agente_Frontier_Girls_Challenge)
-
+![agente](Nome do agente.png)
 
 
 
